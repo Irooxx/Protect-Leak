@@ -12,6 +12,7 @@
 Bye Protect 😞
 
 > Leak By Iroo et Irox
+Je tient a préciser que c'est code est un code de skid il a repris toutes les commandes d'autre bot leak MDRR 
  
 
 # Informations 
