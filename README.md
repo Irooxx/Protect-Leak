@@ -16,5 +16,6 @@ Bye Protect 😞
 
 # Informations 
 
-● [Faire un Don](https://paypal.me/irootls)\n
+● [Faire un Don](https://paypal.me/irootls)
+
 ● [Github de Iroo](https://github.com/iroow3b)
